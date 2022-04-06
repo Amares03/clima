@@ -3,8 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
+#Amir Siraj
 
 This project is a starting point for a Flutter application.
+<img src="images/demo.gif" wight="230" height="430">
 
 A few resources to get you started if this is your first Flutter project:
 
